@@ -12,3 +12,8 @@ Este proyecto utiliza tecnologías como:
 4. Dependencias para la creación de la prueba 
 
 ### Dependencias utilizadas
+1. Sequelize: ORM para interactuar con la base de datos utilizando objectos.
+2. @Types/sequelize: Dependencia necesaria para trabajar con los tipos de typescript y sequelize
+
+## Estructura del proyecto 
+
